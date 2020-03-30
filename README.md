@@ -1,4 +1,4 @@
-# pipeline-queue
+# job-queue
 
 A naive solution to ensuring a singleton job queue for GitLab pipelines.
 
